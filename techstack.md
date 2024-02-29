@@ -3,16 +3,16 @@
 ## Tech Stack
 ramzimalhas/refined-zapier is built on the following main stack:
 
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - [CodeMirror](http://codemirror.net/) – Text Editor
 - [ESLint](http://eslint.org/) – Code Review
 - [Stylelint](http://stylelint.io/) – Code Review
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/refined-zapier is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg' alt='Stylelint'/> [Stylelint](http://stylelint.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/refined-zapier](https://github.com/ramzimalhas/refined-zapier)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|01/23/24 <br/>Report generated|
+|31<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 

@@ -44,7 +44,7 @@
     "indent-textarea": "^2.1.0",
     "js-abbreviation-number": "^1.1.2",
     "linkify-issues": "2.0.0-nolookbehind",
-    "linkify-urls": "3.1.0-nolookbehind",
+    "linkify-urls": "3.1.1",
     "marked": "^2.0.3",
     "mem": "^8.1.0",
     "one-event": "^3.0.0",
